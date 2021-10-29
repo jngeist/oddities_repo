@@ -1,0 +1,4 @@
+extends: false
+default_block: pagebody
+omit_sidebar: true
+listable: false
